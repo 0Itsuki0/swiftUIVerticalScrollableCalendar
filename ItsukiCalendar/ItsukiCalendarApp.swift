@@ -11,7 +11,7 @@ import SwiftUI
 struct ItsukiCalendarApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MonthlyCalendarView()
         }
     }
 }
